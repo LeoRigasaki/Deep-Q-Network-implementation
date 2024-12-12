@@ -23,20 +23,10 @@ This repository implements a Deep Q-Network (DQN), a reinforcement learning algo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dqn-atari-breakout.git
-   cd dqn-atari-breakout
+   git clone https://github.com/LeoRigasaki/Deep-Q-Network-implementation.git
+   cd Deep-Q-Network-implementation
    ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Download and import Atari ROMs:
-   ```bash
-   python -m atari_py.import_roms ./rars
-   ```
-
+   
 ## Usage
 
 1. Launch the training notebook:
