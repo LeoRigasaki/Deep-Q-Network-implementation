@@ -62,10 +62,11 @@ This repository implements a Deep Q-Network (DQN), a reinforcement learning algo
 
 Watch the trained agent play Breakout:
 
-<video controls>
-  <source src="videos/trained-agent-game.mp4" type="video/mp4">
+<video width="600" controls>
+  <source src="demo\trained-agent-game.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ## How It Works
 
